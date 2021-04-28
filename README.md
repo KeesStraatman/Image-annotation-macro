@@ -16,6 +16,10 @@ Select the file "Annotation_to_overlayV1.5.ijm" and select "Raw" from the right 
 
 To run the macro a single time open an image and via Plugins > Macros > Run... select the macro. Alternatively install it via Plugins > Macros > Install ... and the macro will be added to the Plugins > Macros menu, till you restart ImageJ/Fiji.
 
+## Disclaimer
+
+All the macros published on this repository can be used at your own risk. Although I did my best to ensure that they run as intended, there may be bugs, not expected use or changes to the ImageJ code that results in unexpected behaviour. If you notice a problem with any of the macros please let me know and I can try to solve the problem.
+
 ## Publications acknowledging this macro:
 
 Vallardi G, Allan LA, Crozier L, Saurin AT (2019) Division of labour between PP2A-B56 isoforms at the centromere and kinetochore. Elife. 8:e42619. doi: 10.7554/eLife.42619.
