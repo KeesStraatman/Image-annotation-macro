@@ -207,6 +207,6 @@ macro Annotation_to_overlay{
 	run("Select None");
 	setSlice(1);
 	setBatchMode("show");
-	showMessage("Finished. Check the image to see al is as expected.");
+	showMessage("Finished. Check the image to see if all is as expected.");
 		
 }
